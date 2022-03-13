@@ -1,4 +1,5 @@
 {
+  "homepage":"https://tpenaloza.github.io/manipulacionDOM-LazyLoading",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
